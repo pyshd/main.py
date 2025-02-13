@@ -10,7 +10,7 @@ from aiogram.types import Message, CallbackQuery
 
 
 
-bot = Bot(token="7526763330:AAEKVSWgVsbo9xsKJ7Im_b7F8ru7eiXe-JA")
+bot = Bot(token="")
 dp = Dispatcher()
 
 
